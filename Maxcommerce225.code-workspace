@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "Maxcommerce225",
+			"path": "."
+		},
+		{
+			"name": "projet recap1",
+			"path": "../projet recap1"
+		},
+		{
+			"name": "milieu",
+			"path": "../parent/milieu"
+		},
+		{
+			"name": "parent",
+			"path": "../parent"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "milieu"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
